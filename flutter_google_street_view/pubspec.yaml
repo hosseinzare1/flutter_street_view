@@ -12,16 +12,16 @@ dependencies:
     sdk: flutter
   flutter_web_plugins:
       sdk: flutter
-  meta: ^1.9.1
+  meta: ^1.12.0
   kotlin_scope_function: ^1.0.2
-  flutter_plugin_android_lifecycle: ^2.0.16
-  google_maps: ^6.3.0
+  flutter_plugin_android_lifecycle: ^2.0.19
+  google_maps: ^7.1.0
   street_view_platform_interface: ^1.0.8
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  lints:
+  lints: ^4.0.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
